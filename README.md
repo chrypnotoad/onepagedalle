@@ -7,3 +7,5 @@ Single file playground for generating images via the Dalle3 API.
 2. Open the index.html in your browser
 3. Enter your API key. (This local so it is not saved anywhere)
 4. Generate images
+
+![Screenshot](demo.png)
